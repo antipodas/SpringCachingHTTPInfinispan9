@@ -1,4 +1,4 @@
-# SpringCachingHTTPInfinispan8
+# SpringCachingHTTPInfinispan9
 
 cache = sessions
 user = user
